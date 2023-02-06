@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Floor - yup, that's really pronounced like *"the floor is lava"*, but I appreciate y'all trying to make it sound more fancy 💅. I use she/her pronouns. I'm a champion supporter of Open Source Software at my employer `[insert company name here]`, and I care ❣️ **a lot** ❣️ about diversity, equity and inclusion, and accessibility. 
+My name is Floor - yup, that's really pronounced like *"the floor is lava"*. I use she/her pronouns. I'm a champion supporter of Open Source Software at my employer `[insert company name here]`, and I care ❣️ **a lot** ❣️ about diversity, equity and inclusion, and accessibility. 
 
 I organize a bazillion tech events, like [Devopsdays Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/), [Devopsdays Eindhoven](https://devopsdays.org/events/2022-eindhoven/welcome/), and the [Amsterdam Ruby Meetup](https://www.meetup.com/Amsterdam-rb/).
 
