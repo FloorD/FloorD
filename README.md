@@ -8,4 +8,4 @@ I write about tech. Like [here](https://dev.to/floord). And (previously) [here](
 
 If you're like me and you're interested in ethical use of and for tech, consider checking out the [Ethical Source project](https://ethicalsource.dev/).
 
-Best reach me on [Mastodon](https://mastodon.lol/@floord), or using the email in my profile 👈 
+Best reach me on [Mastodon](https://hachyderm.io/@floord), or using the email in my profile 👈 
